@@ -11,7 +11,7 @@ Updated
 
 Resource
 ========
-One excellent source of fonts is http://www.dafont.com
+One excellent source of fonts is [dafont](http://www.dafont.com)
 [Creative Commons Attribution Share Alike license](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Info
